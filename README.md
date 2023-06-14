@@ -1,5 +1,5 @@
 # Governo Aberto - Transparência da linha 9 dos trens metropolitanos após concessão privada
-
+Projeto desenvolvido por:  
 arthurcsanchez@usp.br   
 edgard.taver@usp.br   
 gustavo.os@usp.br   
