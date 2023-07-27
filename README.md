@@ -1,4 +1,4 @@
-# Governo Aberto - Transparência da linha 9 dos trens metropolitanos após concessão privada
+# Governo Aberto - Transparência e _accountability_ da linha 9 dos trens metropolitanos após concessão privada
 
 ## Propósito
 
